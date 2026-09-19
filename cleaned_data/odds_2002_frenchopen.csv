@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,CBW,CBL,GBW,GBL,IWW,IWL,SBW,SBL
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Agassi A.,Prodon E.,4,274,6,3,6,3,6,1,,,,,3,0,Completed,,,1.01,12,1.03,7.5,1.02,6,1.02,13
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Arazi H.,Federer R.,45,8,6,3,6,2,6,4,,,,,3,0,Completed,,,,,4.7,1.12,5,1.05,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Arthurs W.,Roddick A.,91,14,4,6,7,6,4,6,7,5,6,3,3,2,Completed,,,4.85,1.15,5.1,1.1,4.5,1.1,4.5,1.167
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Blake J.,Burgsmuller L.,37,81,6,2,2,1,,,,,,,1,0,Retired,,,1.25,3.7,1.16,4.15,1.1,4.5,1.167,4.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Brasington J.,Luzzi F.,148,172,6,2,6,2,7,5,,,,,3,0,Completed,,,2.3,1.57,2.2,1.55,1.8,1.7,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Calatrava A.,Kiefer N.,133,65,6,3,6,0,6,4,,,,,3,0,Completed,,,1.9,1.85,1.95,1.7,1.85,1.65,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Canas G.,Kucera K.,17,74,6,7,6,4,6,2,6,2,,,3,1,Completed,,,1.22,4,1.2,3.7,1.15,3.8,1.167,4.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Clement A.,Benneteau J.,47,197,6,0,6,1,6,4,,,,,3,0,Completed,,,1.14,5,1.15,4.25,1.15,3.8,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Coria G.,Sargsian S.,147,70,6,2,7,5,6,0,,,,,3,0,Completed,,,,,1.15,4.3,1.1,4.5,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Corretja A.,Ulihrach B.,20,40,6,1,6,4,6,1,,,,,3,0,Completed,,,,,,,,,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Costa A.,Gasquet R.,22,294,3,6,6,0,6,4,6,3,,,3,1,Completed,,,1.12,5.5,1.1,5.1,1.1,4.5,1.143,5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Coutelot N.,Koubek S.,87,39,6,4,6,4,6,4,,,,,3,0,Completed,,,2.4,1.52,2.7,1.36,2.5,1.35,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Davydenko N.,Galimberti G.,79,179,6,7,6,4,6,1,6,3,,,3,1,Completed,,,1.48,2.5,1.42,2.5,1.5,2.1,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,de Chaunac S.,Chang M.,173,93,4,6,4,6,6,4,6,2,6,4,3,2,Completed,,,3,1.35,2.65,1.36,2.3,1.4,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,di Pasquale A.,Russell M.,283,102,6,4,6,0,4,6,6,1,,,3,1,Completed,,,1.48,2.5,1.54,2.2,1.4,2.3,1.615,2.2
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,El Aynaoui Y.,Gambill J.M.,18,53,3,6,6,3,6,4,3,6,6,4,3,2,Completed,,,1.17,4.5,1.15,4.25,1.15,3.8,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Enqvist T.,Massa E.,21,112,4,6,4,6,6,3,6,2,6,4,3,2,Completed,,,1.42,2.7,1.36,2.65,1.3,2.7,1.364,2.875
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Ferrero J.C.,Lisnard J.,11,135,6,1,7,6,6,3,,,,,3,0,Completed,,,,,1.03,7.5,1.02,6,1.05,8.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Gaudenzi A.,Sampras P.,69,12,3,6,6,4,6,2,7,6,,,3,1,Completed,,,2.4,1.52,2.35,1.48,2.3,1.4,2.5,1.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Gaudio G.,Balcells J.,34,117,6,4,6,2,7,5,,,,,3,0,Completed,,,1.14,5,1.15,4.24,1.15,3.8,1.143,5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Gonzalez F.,Draper S.,41,250,6,2,7,6,6,3,,,,,3,0,Completed,,,,,,,,,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Grosjean S.,Clavet F.,10,77,7,6,7,6,3,6,6,3,,,3,1,Completed,,,1.27,3.55,1.26,3.14,1.2,3.3,1.286,3.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Haas T.,Tabara M.,3,167,6,3,7,5,6,4,,,,,3,0,Completed,,,1.14,5,1.1,5.2,1.05,5,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Hadad A.,Rochus C.,233,78,6,1,6,2,6,7,6,2,,,3,1,Completed,,,,,,,,,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Henman T.,Blanco G.,6,89,6,4,6,3,7,6,,,,,3,0,Completed,,,,,1.25,3.14,1.2,3.3,1.286,3.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Hewitt L.,Sa A.,1,83,7,5,6,4,7,5,,,,,3,0,Completed,,,1.05,8,1.03,7.5,1.03,5.5,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Johansson T.,Squillari F.,9,75,6,2,7,6,6,2,,,,,3,0,Completed,,,1.9,1.85,1.72,1.92,1.6,1.9,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Kafelnikov Y.,Behrend T.,5,157,6,3,6,2,3,6,6,7,6,1,3,2,Completed,,,1.22,4,1.17,4,1.15,3.8,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Knippschild J.,Lee H.T.,277,120,6,4,1,6,3,6,7,6,6,1,3,2,Completed,,,,,1.83,1.8,1.6,1.9,1.909,1.8
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Kratochvil M.,Hrbaty D.,49,56,6,0,6,7,6,3,6,3,,,3,1,Completed,,,2.2,1.62,2,1.65,1.85,1.65,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Kuerten G.,Heuberger I.,7,116,7,5,6,2,6,2,,,,,3,0,Completed,,,1.04,9,1.03,7.5,1.02,6,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Labadze I.,Boutter J.,86,46,7,6,5,7,6,7,6,3,9,7,3,2,Completed,,,3.4,1.28,3.19,1.25,3,1.25,3,1.364
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Lopez F.,Perez D.,111,184,4,6,6,4,6,2,4,6,6,4,3,2,Completed,,,,,,,,,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Malisse X.,Popp A.,38,131,6,4,6,1,4,6,6,1,,,3,1,Completed,,,,,1.27,3.2,1.25,3,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Mamiit C.,Mirnyi M.,95,30,6,3,6,4,5,7,6,4,,,3,1,Completed,,,3.6,1.25,3.5,1.22,3.3,1.2,3.5,1.286
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Martin A.,Ginepri R.,58,134,7,6,6,2,6,3,,,,,3,0,Completed,,,,,,,,,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Martin T.,Vassallo-Arguello M.,42,140,6,2,7,5,3,6,4,6,7,5,3,2,Completed,,,,,,,,,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Mathieu P.H.,Ferreira W.,107,43,6,4,6,7,5,7,6,2,6,0,3,2,Completed,,,,,2.58,1.4,2.3,1.4,2.75,1.4
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Meligeni F.,Escude N.,55,31,6,4,6,2,0,6,6,4,,,3,1,Completed,,,1.9,1.85,2.06,1.6,1.9,1.6,2,1.727
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Montanes A.,Dupuis A.,54,80,6,7,6,4,3,6,6,2,7,5,3,2,Completed,,,1.42,2.7,1.48,2.29,1.5,2.1,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Moya C.,Delgado R.,19,84,6,3,6,3,6,2,,,,,3,0,Completed,,,1.05,8,1.05,6.55,1.03,5.5,1.063,8
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Nalbandian D.,Calleri A.,32,51,6,2,5,7,6,2,6,4,,,3,1,Completed,,,1.75,2,1.65,2,1.7,1.8,1.727,2
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Nieminen J.,Lapentti N.,44,25,6,3,6,4,7,6,,,,,3,0,Completed,,,2.15,1.65,2.25,1.5,2.3,1.4,2.2,1.615
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Novak J.,Youzhny M.,15,66,6,3,6,4,7,6,,,,,3,0,Completed,,,,,1.32,2.9,1.25,3,1.364,3
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Ogorodov O.,Hipfl M.,144,90,6,7,6,1,2,6,7,5,9,7,3,2,Completed,,,,,3.2,1.27,3,1.25,3,1.364
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Pavel A.,Lee M.,28,97,6,1,5,4,,,,,,,1,0,Retired,,,1.08,6.75,1.05,6.65,1.03,5.5,1.1,6.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Philippoussis M.,Varlet J.,130,229,1,6,6,7,6,4,7,6,6,3,3,2,Completed,,,,,,,,,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Portas A.,Ilie A.,76,178,7,6,6,3,6,4,,,,,3,0,Completed,,,1.48,2.5,1.46,2.4,1.45,2.2,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Puerta M.,Pless K.,199,71,6,3,1,6,7,6,5,7,6,3,3,2,Completed,,,,,1.6,2.1,1.45,2.2,1.615,2.2
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Robredo T.,Levy H.,29,160,6,1,6,0,1,0,,,,,2,0,Retired,,,,,1.08,5.6,1.05,5,1.063,8
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Rochus O.,Savolt A.,60,68,6,4,7,6,6,2,,,,,3,0,Completed,,,1.52,2.4,1.5,2.3,1.4,2.3,1.444,2.625
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Safin M.,Llodra M.,2,104,6,4,2,6,7,6,6,4,,,3,1,Completed,,,1.12,5.5,1.08,5.5,1.1,4.5,1.1,6
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Sanchez D.,Acasuso J.,64,96,6,4,7,5,6,4,,,,,3,0,Completed,,,2.1,1.67,1.74,1.88,1.75,1.75,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Sanguinetti D.,Knowle J.,50,94,6,3,4,6,7,5,6,3,,,3,1,Completed,,,1.53,2.35,1.5,2.25,1.4,2.3,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Santoro F.,Norman M.,26,161,6,2,5,7,3,6,6,4,6,4,3,2,Completed,,,,,1.5,2.28,1.6,1.9,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Saretta F.,Marach O.,72,271,6,2,6,2,4,6,6,7,6,4,3,2,Completed,,,,,1.25,3.3,1.2,3.3,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Schalken S.,Miranda I.,33,228,7,6,6,0,6,1,,,,,3,0,Completed,,,1.25,3.6,1.25,3.3,1.25,3,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Schuettler R.,Galvani S.,27,110,7,6,2,6,7,6,6,1,,,3,1,Completed,,,1.45,2.6,1.3,3,1.25,3,1.364,3
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Spadea V.,Pioline C.,88,92,4,6,6,4,6,4,3,6,6,4,3,2,Completed,,,,,2.9,1.32,3,1.25,3,1.333
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Srichaphan P.,Sluiter R.,67,85,5,7,6,2,6,7,6,4,6,4,3,2,Completed,,,2.45,1.5,2.55,1.4,2.3,1.4,2.625,1.444
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Stoliarov A.,Bjorkman J.,109,57,1,6,6,4,6,4,7,5,,,3,1,Completed,,,2.35,1.55,2.42,1.45,2,1.55,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Vicente F.,Ljubicic I.,61,35,4,6,6,1,7,6,4,6,6,3,3,2,Completed,,,,,,,,,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Voinea A.,Chela J.I.,59,23,7,6,7,5,4,6,7,6,,,3,1,Completed,,,,,2.85,1.31,2.7,1.3,3.5,1.286
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,1st Round,5,Zabaleta M.,Vacek J.,52,82,6,1,3,6,6,3,6,4,,,3,1,Completed,,,1.22,4,1.18,3.9,1.3,2.7,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Agassi A.,Sanchez D.,4,64,4,6,6,2,6,1,,,,,2,1,Retired,,,1.1,6,1.08,5.75,1.1,4.5,1.071,7
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Arazi H.,Puerta M.,45,199,6,2,6,1,6,2,,,,,3,0,Completed,,,1.55,2.35,1.52,2.25,1.5,2.1,1.5,2.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Canas G.,Calatrava A.,17,133,3,6,6,1,6,2,6,0,,,3,1,Completed,,,1.28,3.4,1.2,3.75,1.2,3.3,1.2,4.333
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Clement A.,Johansson T.,47,9,7,6,6,1,6,3,,,,,3,0,Completed,,,1.8,1.92,1.85,1.78,1.85,1.65,1.909,1.8
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Coria G.,Schuettler R.,147,27,6,4,6,2,6,3,,,,,3,0,Completed,,,1.57,2.3,1.75,1.85,1.55,2,1.615,2.2
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Corretja A.,Martin T.,20,42,6,2,6,3,7,5,,,,,3,0,Completed,,,1.2,4.2,1.2,3.75,1.25,3,1.222,4
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Costa A.,Davydenko N.,22,79,7,5,7,6,6,2,,,,,3,0,Completed,,,1.15,5,1.15,4.3,1.15,3.8,1.143,5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,di Pasquale A.,Arthurs W.,283,91,7,6,6,3,6,2,,,,,3,0,Completed,,,1.95,1.8,1.95,1.72,1.75,1.75,2,1.727
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Ferrero J.C.,Coutelot N.,11,87,6,2,5,7,1,6,6,2,6,0,3,2,Completed,,,,,1.1,5.2,1.2,3.3,1.083,6.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Gaudenzi A.,Brasington J.,69,148,6,3,7,6,6,1,,,,,3,0,Completed,,,1.38,2.9,1.45,2.45,1.4,2.3,1.444,2.625
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Gaudio G.,Labadze I.,34,86,6,1,6,2,6,7,6,4,,,3,1,Completed,,,1.16,4.75,1.15,4.25,1.1,4.5,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Gonzalez F.,Meligeni F.,41,55,6,2,3,6,6,1,6,2,,,3,1,Completed,,,,,,,,,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Grosjean S.,Blake J.,10,37,6,4,3,6,6,2,7,5,,,3,1,Completed,,,1.38,2.9,1.35,2.75,1.3,2.7,1.364,2.875
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Haas T.,Lopez F.,3,111,6,3,6,4,6,4,,,,,3,0,Completed,,,1.16,4.75,1.12,4.75,1.15,3.8,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Hewitt L.,Stoliarov A.,1,109,4,6,7,6,6,0,7,5,,,3,1,Completed,,,1.05,8,1.03,8,1.02,6,1.05,9
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Kuerten G.,Sanguinetti D.,7,50,6,7,6,2,4,6,6,4,6,3,3,2,Completed,,,1.08,6.75,1.05,6.75,1.02,6,1.05,8.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Malisse X.,Henman T.,38,6,6,2,3,6,7,6,6,3,,,3,1,Completed,,,2.35,1.55,2.8,1.33,2.3,1.4,2.75,1.4
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Mathieu P.H.,Santoro F.,107,26,7,5,6,1,1,6,6,4,,,3,1,Completed,,,2.5,1.48,2.45,1.45,2.3,1.4,2.75,1.4
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Montanes A.,El Aynaoui Y.,54,18,7,5,7,6,6,4,,,,,3,0,Completed,,,3,1.35,2.95,1.32,2.7,1.3,2.625,1.444
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Moya C.,Philippoussis M.,19,130,6,2,7,6,7,6,,,,,3,0,Completed,,,1.17,4.5,1.15,4.3,1.2,3.3,1.167,4.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Nalbandian D.,Saretta F.,32,72,6,3,6,4,6,0,,,,,3,0,Completed,,,1.38,2.85,1.3,2.75,1.3,2.7,1.286,3.25
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Nieminen J.,Hadad A.,44,233,6,7,6,4,6,4,7,5,,,3,1,Completed,,,1.2,4.2,1.17,4,1.2,3.3,1.25,3.75
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Novak J.,Knippschild J.,15,277,6,1,6,2,7,5,,,,,3,0,Completed,,,1.1,6,1.1,5.2,1.05,5,1.1,6.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Pavel A.,Kratochvil M.,28,49,6,3,6,1,6,3,,,,,3,0,Completed,,,1.42,2.7,1.47,2.35,1.45,2.2,1.571,2.25
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Portas A.,Mamiit C.,76,95,3,6,6,3,6,4,6,4,,,3,1,Completed,,,1.52,2.4,1.47,2.4,1.45,2.2,1.5,2.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Robredo T.,Ogorodov O.,29,144,6,3,4,6,6,1,6,2,,,3,1,Completed,,,1.08,6.75,1.08,5.5,1.03,5.5,1.071,7
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Safin M.,Rochus O.,2,60,4,6,6,2,3,6,6,3,6,3,3,2,Completed,,,1.14,5,1.12,4.75,1.15,3.8,1.125,5.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Schalken S.,de Chaunac S.,33,173,6,0,6,2,7,6,,,,,3,0,Completed,,,1.25,3.7,1.2,3.75,1.15,3.8,1.25,3.75
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Spadea V.,Voinea A.,88,59,6,4,4,6,2,6,7,6,8,6,3,2,Completed,,,2.7,1.42,2.6,1.4,2.7,1.3,2.625,1.444
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Srichaphan P.,Enqvist T.,67,21,6,4,1,6,7,5,6,3,,,3,1,Completed,,,4.2,1.2,4,1.17,3.8,1.15,4,1.2
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Vicente F.,Martin A.,61,58,6,4,6,3,6,3,,,,,3,0,Completed,,,2.3,1.57,2.2,1.55,2,1.55,2.1,1.667
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,2nd Round,5,Zabaleta M.,Kafelnikov Y.,52,5,7,6,2,6,6,4,7,6,,,3,1,Completed,,,1.75,2,1.75,1.9,1.75,1.75,2,1.727
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Agassi A.,Robredo T.,4,29,6,2,6,4,6,2,,,,,3,0,Completed,,,1.2,4.25,1.15,4.3,1.15,3.8,1.167,4.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Canas G.,Moya C.,17,19,4,6,7,6,6,7,6,1,6,2,3,2,Completed,,,2.55,1.48,2.6,1.4,2.3,1.4,2.625,1.444
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Corretja A.,Clement A.,20,47,6,1,6,2,4,6,5,7,8,6,3,2,Completed,,,1.3,3.3,1.25,3.2,1.25,3,1.222,3.75
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Costa A.,Gaudenzi A.,22,69,7,6,6,1,7,5,,,,,3,0,Completed,,,1.25,3.7,1.25,3.3,1.2,3.3,1.286,3.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,di Pasquale A.,Srichaphan P.,283,67,6,4,6,3,6,3,,,,,3,0,Completed,,,1.33,3.2,1.39,2.6,1.35,2.5,1.444,2.625
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Ferrero J.C.,Coria G.,11,147,6,2,6,3,6,3,,,,,3,0,Completed,,,1.36,3,1.25,3.3,1.3,2.7,1.286,3.25
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Gaudio G.,Arazi H.,34,45,6,2,4,6,6,4,3,1,,,2,1,Retired,,,1.36,3,1.44,2.45,1.4,2.3,1.364,2.875
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Grosjean S.,Spadea V.,10,88,6,2,7,6,6,7,6,4,,,3,1,Completed,,,1.15,5,1.15,4.5,1.1,4.5,1.167,4.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Haas T.,Nieminen J.,3,44,6,3,7,5,2,6,6,4,,,3,1,Completed,,,1.36,3,1.35,2.75,1.35,2.5,1.333,3
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Hewitt L.,Schalken S.,1,33,6,1,7,5,6,7,6,1,,,3,1,Completed,,,1.2,4.25,1.22,3.4,1.2,3.3,1.167,4.5
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Kuerten G.,Gonzalez F.,7,41,6,3,2,6,7,6,6,4,,,3,1,Completed,,,1.45,2.65,1.35,2.75,1.35,2.5,1.4,2.75
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Malisse X.,Portas A.,38,76,6,2,6,3,7,6,,,,,3,0,Completed,,,1.55,2.4,1.47,2.4,1.45,2.2,1.571,2.25
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Mathieu P.H.,Novak J.,107,15,6,4,6,4,6,3,,,,,3,0,Completed,,,3.75,1.25,3.4,1.22,3.3,1.2,3.75,1.222
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Pavel A.,Montanes A.,28,54,6,1,1,6,6,4,6,3,,,3,1,Completed,,,1.6,2.25,1.5,2.3,1.4,2.3,1.615,2.2
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Safin M.,Nalbandian D.,2,32,6,3,6,3,3,6,6,4,,,3,1,Completed,,,1.45,2.7,1.41,2.55,1.4,2.3,1.444,2.625
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,3rd Round,5,Zabaleta M.,Vicente F.,52,61,4,6,6,3,6,4,6,3,,,3,1,Completed,,,1.65,2.2,1.65,2.05,1.65,1.85,1.727,2
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,4th Round,5,Agassi A.,Mathieu P.H.,4,107,4,6,3,6,6,3,6,3,6,3,3,2,Completed,,,1.08,7.25,1.05,6.6,1.1,4.5,1.071,7
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,4th Round,5,Canas G.,Hewitt L.,17,1,6,7,7,6,6,4,6,3,,,3,1,Completed,,,2.25,1.62,2.35,1.48,2.3,1.4,2.25,1.571
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,4th Round,5,Corretja A.,Zabaleta M.,20,52,6,3,6,2,7,5,,,,,3,0,Completed,,,1.45,2.65,1.4,2.55,1.35,2.5,1.4,2.75
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,4th Round,5,Costa A.,Kuerten G.,22,7,6,4,7,5,6,4,,,,,3,0,Completed,,,2.8,1.4,2.62,1.38,2.3,1.4,2.875,1.364
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,4th Round,5,Ferrero J.C.,Gaudio G.,11,34,6,7,6,1,6,7,6,2,6,4,3,2,Completed,,,1.55,2.4,1.5,2.3,1.45,2.2,1.571,2.25
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,4th Round,5,Grosjean S.,Malisse X.,10,38,6,2,7,5,6,3,,,,,3,0,Completed,,,1.55,2.4,1.45,2.45,1.4,2.3,1.444,2.625
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,4th Round,5,Pavel A.,Haas T.,28,3,6,1,7,6,6,4,,,,,3,0,Completed,,,2.95,1.38,2.65,1.38,2.3,1.4,2.75,1.4
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,4th Round,5,Safin M.,di Pasquale A.,2,283,3,6,6,4,6,3,6,2,,,3,1,Completed,,,1.2,4.25,1.2,3.75,1.2,3.3,1.2,4.333
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,Quarterfinals,5,Corretja A.,Pavel A.,20,28,7,6,7,5,7,5,,,,,3,0,Completed,,,1.4,2.85,1.37,2.7,1.4,2.3,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,Quarterfinals,5,Costa A.,Canas G.,22,17,7,5,3,6,6,7,6,4,6,0,3,2,Completed,,,1.7,2.1,1.65,2.05,1.55,2,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,Quarterfinals,5,Ferrero J.C.,Agassi A.,11,4,6,3,5,7,7,5,6,3,,,3,1,Completed,,,2.05,1.75,2.02,1.65,1.85,1.65,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,Quarterfinals,5,Safin M.,Grosjean S.,2,10,6,3,6,2,6,2,,,,,3,0,Completed,,,1.62,2.3,1.55,2.15,1.5,2.1,,
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,Semifinals,5,Costa A.,Corretja A.,22,20,6,3,6,4,3,6,6,3,,,3,1,Completed,,,2.05,1.75,1.75,1.95,1.9,1.6,2,1.727
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,Semifinals,5,Ferrero J.C.,Safin M.,11,2,6,3,6,2,6,4,,,,,3,0,Completed,,,1.7,2.1,1.95,1.75,1.65,1.85,1.667,2.1
+31,Paris,French Open,27/05/02,Grand Slam,Outdoor,Clay,The Final,5,Costa A.,Ferrero J.C.,22,11,6,1,6,0,4,6,6,3,,,3,1,Completed,,,3.15,1.36,3,1.3,2.7,1.3,,
